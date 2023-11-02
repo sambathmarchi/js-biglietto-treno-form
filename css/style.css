@@ -1,0 +1,12 @@
+body {
+    background-color: greenyellow
+}
+
+.my_bg {
+    min-height: 100px;
+}
+
+.my_border {
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
